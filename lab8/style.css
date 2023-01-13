@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.bt{
+    width:20px;
+    display: inline;
+    margin-left: -5px;
+}
+#delete{
+  font-size: 0.7em;
+}
+#MyText2{
+    margin-left:-5px;
+}
+.button{
+    display: block;
+}
+.line:first-child {
+    display: none;
+}
